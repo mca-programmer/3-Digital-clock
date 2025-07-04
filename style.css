@@ -1,0 +1,18 @@
+body {
+  background: #222;
+  color: white;
+  font-family: monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#digitalClock {
+  font-size: 3rem;
+  background: #000;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px #111;
+  transition: all 0.2s ease;
+}
